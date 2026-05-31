@@ -21,4 +21,4 @@ pandas: Data handling and display
 Install dependencies:
 pip install scikit-learn matplotlib numpy pandas
 Run the script:
-python pro.2
+python Data-classification.py
